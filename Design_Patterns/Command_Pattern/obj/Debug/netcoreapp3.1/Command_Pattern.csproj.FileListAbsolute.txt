@@ -1,0 +1,13 @@
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.exe
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.deps.json
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.runtimeconfig.json
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.runtimeconfig.dev.json
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.dll
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.pdb
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.csprojAssemblyReference.cache
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.AssemblyInfoInputs.cache
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.AssemblyInfo.cs
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.dll
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.pdb
+C:\Users\Patch_Know\Desktop\My_Folder\Design_Patterns_Csharp\Design_Patterns\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.genruntimeconfig.cache
